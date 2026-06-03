@@ -28,7 +28,7 @@ String topicPrefix = "devices/mic-01";
 
 // OTA update
 String updateChannel = "stable";
-String updateBaseUrl = "https://raw.githubusercontent.com/JOUW_GITHUB_GEBRUIKER/care-mic-firmware/main/firmware";
+String updateBaseUrl = "https://raw.githubusercontent.com/TelecomServices/care-mic/main/firmware";
 String lastUpdateVersion = "";
 String lastUpdateBinUrl = "";
 String lastUpdateNotes = "";
