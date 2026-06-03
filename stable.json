@@ -1,6 +1,0 @@
-{
-  "channel": "stable",
-  "version": "1.6.0",
-  "bin_url": "https://github.com/TelecomServices/care-mic/releases/download/v1.6.0/care-mic-echos3r-stable.bin",
-  "notes": "Stable release met MQTT, webinterface, dag/nachtprofielen, live URL en OTA update."
-}
