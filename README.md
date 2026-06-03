@@ -22,7 +22,7 @@ https://github.com/TelecomServices/care-mic/main/firmware/beta.json
 In de webpagina van de sensor moet de Update basis URL staan als:
 
 ```text
-https://github.com/TelecomServices/care-mic/main/firmware
+https://raw.githubusercontent.com/TelecomServices/care-mic/main/firmware
 ```
 
 Daarna kiest de sensor zelf:
