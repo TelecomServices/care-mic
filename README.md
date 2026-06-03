@@ -55,7 +55,8 @@ beta.json
 Vervang overal:
 
 ```text
-JOUW_GITHUB_GEBRUIKER
+TelecomServices
+care-mic
 ```
 
 door jouw echte GitHub gebruikersnaam of organisatienaam.
