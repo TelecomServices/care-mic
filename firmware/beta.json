@@ -1,6 +1,6 @@
 {
   "channel": "beta",
   "version": "1.7.0-beta1",
-  "bin_url": "https://github.com/JOUW_GITHUB_GEBRUIKER/care-mic-firmware/releases/download/v1.7.0-beta1/care-mic-echos3r-beta.bin",
+  "bin_url": "https://github.com/TelecomServices/care-mic/releases/download/v1.7.0-beta1/care-mic-echos3r-beta.bin",
   "notes": "Beta release voor nieuwe functies en tests."
 }
