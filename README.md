@@ -15,14 +15,14 @@ src/care_mic_echos3r_v1_6_ota.cpp
 De sensor kijkt naar een van deze bestanden:
 
 ```text
-https://raw.githubusercontent.com/JOUW_GITHUB_GEBRUIKER/care-mic-firmware/main/firmware/stable.json
-https://raw.githubusercontent.com/JOUW_GITHUB_GEBRUIKER/care-mic-firmware/main/firmware/beta.json
+https://github.com/TelecomServices/care-mic/main/firmware/stable.json
+https://github.com/TelecomServices/care-mic/main/firmware/beta.json
 ```
 
 In de webpagina van de sensor moet de Update basis URL staan als:
 
 ```text
-https://raw.githubusercontent.com/JOUW_GITHUB_GEBRUIKER/care-mic-firmware/main/firmware
+https://github.com/TelecomServices/care-mic/main/firmware
 ```
 
 Daarna kiest de sensor zelf:
